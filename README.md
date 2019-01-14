@@ -4,3 +4,5 @@
 
 Tools for the Cozmo Robot SDK.
 These tools are designed for Windows 7 and up, and not supported on Mac.
+
+@micahlt is simplifying the Cozmo SDK, so that anyone can use it.  No, it's not just for developers.  It's fun- at least it should be.  That's why I'm making shortcuts, installers, and all kinds of other stuff to simplify the most popular minirobot SDK around.  

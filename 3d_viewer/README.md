@@ -1,4 +1,4 @@
-# COZMO 3d Viewer
+# COZMO 3D Viewer
 
 <img src = "https://img.shields.io/static/v1.svg?label=build&message=ready&color=green">
 
